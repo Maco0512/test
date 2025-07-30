@@ -11,6 +11,6 @@ part 'route.g.dart';
 @riverpod
 GoRouter router(Ref ref) {
   final router = GoRouter(routes: )
-
+test
   return router;
 }
